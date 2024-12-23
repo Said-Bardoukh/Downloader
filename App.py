@@ -24,3 +24,5 @@ while c:
         print("None")
 
 print(count)
+
+print(f"{count}$")
